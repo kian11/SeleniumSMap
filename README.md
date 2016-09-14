@@ -1,0 +1,2 @@
+# SeleniumSMap
+基于Robot Framework的S2L拓展开发的SMAP，期望解决解决因为WEB改动而影响的WEB自动化测试
