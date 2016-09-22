@@ -1,5 +1,7 @@
 # SeleniumSMap
-也成为Smart Map
+也称为Smart Map
+Robot是个好用框架，毋庸置疑，但是Robot带来的是，对于程序员来说，不像在编程，这种感觉很痛苦。
+但是它的库是很好的，例如S2L、SSH2Library，AppliumLibrary等自动化测试常用库。
 一、基于Robot Framework的S2L拓展开发的SMAP，解决因为WEB改动频繁而影响的WEB自动化测试
 xls文件存放所有页面元素信息
 通过调用_Basic类中的驱动函数 D() 来进行驱动页面操作
